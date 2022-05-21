@@ -1,1 +1,1 @@
-@diskpart %*
+@diskpart
