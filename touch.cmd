@@ -1,2 +1,1 @@
-@echo off
-copy /b %1 +,,
+@copy /b %1 +,, %1
