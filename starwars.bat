@@ -1,3 +1,1 @@
-@echo off
-
-telnet towel.blinkenlights.nl
+@telnet towel.blinkenlights.nl
